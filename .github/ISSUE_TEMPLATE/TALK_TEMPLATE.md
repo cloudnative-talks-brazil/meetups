@@ -1,12 +1,3 @@
----
-name: Talk
-about: Talk Proposal
-title: ''
-labels: ''
-assignees: ''
-
----
-
 * **Title**:
 * **Speaker**:
 * **City**: [Virtual if submitting for virtual meetup]

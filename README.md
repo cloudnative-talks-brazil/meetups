@@ -8,12 +8,12 @@ Se você tiver outras perguntas, entre em contato conosco em **talks.br@native4.
 
 ## Submeta uma Palestra
 
-Tem algo legal para compartilhar com a comunidade? [Abra uma "issue" para enviar uma palestra](../../issues/new).
+Tem algo legal para compartilhar com a comunidade? [Abra uma "issue" para enviar uma palestra](../../issues/new?template=TALK_TEMPLATE.md).
 
 
 ## Requisitar uma Palestra
 
-Tem um tópico do seu interesse e alguém da comunidade pode falar sobre isso? [Abra um "issue" para solicitar uma palestra] (../../issues/new?template=REQUEST.md).
+Tem um tópico do seu interesse e alguém da comunidade pode falar sobre isso? [Abra um "issue" para solicitar uma palestra] (../../issues/new?template=REQUEST_TEMPLATE.md).
 
 
 ## Código de Conduta
