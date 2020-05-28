@@ -18,4 +18,4 @@ Tem um tópico do seu interesse e alguém da comunidade pode falar sobre isso? [
 
 ## Código de Conduta
 
-Tanto neste repositório quanto em nossos eventos, o [Código de Conduta para a Comunidade CNCF] (https://github.com/cncf/foundation/blob/master/code-of-conduct-languages/pt.md) se aplica. Todos os participantes, palestrantes, patrocinadores e voluntários, incluindo a equipe organizadora do evento, devem seguir sua política.
+Tanto neste repositório quanto em nossos eventos, o [Código de Conduta para a Comunidade CNCF](https://github.com/cncf/foundation/blob/master/code-of-conduct-languages/pt.md) se aplica. Todos os participantes, palestrantes, patrocinadores e voluntários, incluindo a equipe organizadora do evento, devem seguir sua política.
