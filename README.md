@@ -8,7 +8,7 @@ Se você tiver outras perguntas, entre em contato conosco em **talks.br@native4.
 
 ## Submeta uma Palestra
 
-Tem algo legal para compartilhar com a comunidade? [Abra uma "issue" para enviar uma palestra] (../../ questões / novo).
+Tem algo legal para compartilhar com a comunidade? [Abra uma "issue" para enviar uma palestra](../../issues/new).
 
 
 ## Requisitar uma Palestra
