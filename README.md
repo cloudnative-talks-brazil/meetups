@@ -13,7 +13,7 @@ Tem algo legal para compartilhar com a comunidade? [Abra uma "issue" para enviar
 
 ## Requisitar uma Palestra
 
-Tem um tópico do seu interesse e alguém da comunidade pode falar sobre isso? [Abra um "issue" para solicitar uma palestra] (../../issues/new?template=REQUEST_TEMPLATE.md).
+Tem um tópico do seu interesse e alguém da comunidade pode falar sobre isso? [Abra um "issue" para solicitar uma palestra](../../issues/new?template=REQUEST_TEMPLATE.md).
 
 
 ## Código de Conduta
